@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://standard-process-reviews-v7.example/sitemap.xml
